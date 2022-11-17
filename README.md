@@ -1,2 +1,2 @@
-# CASSIDY_FEWDPortfolio
+# FEWDPortfolio
 Future home for portfolio project.
